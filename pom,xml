@@ -1,0 +1,5 @@
+<packaging>war</packaging>
+
+<build>
+    <finalName>mywebapp</finalName>
+</build>
